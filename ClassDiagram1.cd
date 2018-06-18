@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ARPAppDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBaseLayer" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCBEAAAAAAAAgAAEAEAAAAEBABAAAAAYAAAAQAAAEAA=</HashCode>
+      <FileName>BaseLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CARPLayer" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAAQAsACIAGEYBQAAAAFUAAAAQgAAAAIAAAAA=</HashCode>
+      <FileName>ARPLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEthernetLayer" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAQQCgACEEAAAAAAAQAAAAQgAAAAAAAAAA=</HashCode>
+      <FileName>EthernetLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNILayer" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABAEAAAAAAFAAAABAAAAIAAAQkABQBAAAAgA=</HashCode>
+      <FileName>NILayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarpApp" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAAA=</HashCode>
+      <FileName>arp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CARPAppDlg" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UASAgIEAUIAIIBgAAJEAABAIUAYQAAYQwAQAYAAYCAA=</HashCode>
+      <FileName>ARPAppDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CIPLayer" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgBAAAAACAAAEAAAAAAAAQAAEAQgAAAAAAAAAA=</HashCode>
+      <FileName>IPLayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLayerManager" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADBAAAAAQAAABAAAAIAAAAAAAASIBBEhgAAACAAKCAA=</HashCode>
+      <FileName>LayerManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
